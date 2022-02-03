@@ -2,7 +2,7 @@
 
 <ins>**AdventureWorks Report:**</ins>
 
-AdventureWorks is a company that sells products for those who enjoy outdoor activities. This report I created can help the company track core business **KPIs**(sales, revenue, profit, returns), **compare regional performance**, **analyse product-level trends and forecast*, and also **identify high valued customers**.
+AdventureWorks is a company that sells products for those who enjoy outdoor activities. This report I created can help the company track core business **KPIs**(sales, revenue, profit, returns), **compare regional performance**, **analyse product-level trends and forecast**, and also **identify high valued customers**.
 
 This report consists of an **Executive Summary**, which showcases orders by category and subcategory, an enabled drill-through feature which allows users to select products and find detailed information such as return volume and future profit forecast. A map which allows users to choose which continent they’re interested in and several KPI cards labelling monthly orders, revenue and returns. This report also contains an in-depth **Product Detail** page and a **Customer Detail** page.
 
