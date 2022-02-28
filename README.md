@@ -7,7 +7,6 @@ AdventureWorks is a company that sells products for those who enjoy outdoor acti
 This report consists of an **Executive Summary**, which showcases orders by category and subcategory, an enabled drill-through feature which allows users to select products and find detailed information such as return volume and future profit forecast. A map which allows users to choose which continent they’re interested in and several KPI cards labelling monthly orders, revenue and returns. This report also contains an in-depth **Product Detail** page and a **Customer Detail** page.
 
 
-<sub><sup>This is the first course project from "Microsoft Power BI Desktop for Business Intelligence" by Chris Dutton.</sup></sub>
 
 <ins>**Maven Market Report:**</ins> 
 
@@ -17,4 +16,3 @@ This report consists of a **Topline Performance** summary, which consists of a m
 
 On the second page of the report, I inserted three bookmarks based on insights I found from the first page so that when users click the bookmark, they will see the present configured view of a report page, with the fiters and visuals.
 
-<sub><sup>This is the second course project from "Microsoft Power BI Desktop for Business Intelligence" by Chris Dutton.</sup></sub>
